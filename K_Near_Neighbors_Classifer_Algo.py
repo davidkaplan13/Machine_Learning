@@ -1,5 +1,5 @@
 """
-Own K_Near Neighbours Classifier
+K_Near Neighbours Classifier
 Testing on Simple Data
 Let's say K = 3, so then we're looking for the two closest neighboring points.
 """
