@@ -1,5 +1,5 @@
 """
-K_Near Neighbours Classifier
+K_Near Neighbours Classifiers
 Testing on Breast Cancer Data
 """
 import numpy as np
